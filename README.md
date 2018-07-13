@@ -1,9 +1,9 @@
 # data-structures
 
 1. Lists:
-- Array Lists
-- Linked Lists
-- List Exercises
+- [Array Lists](https://github.com/arisonl/data-structures/edit/master/README.md)
+- [Linked Lists](https://github.com/arisonl/data-structures/blob/master/linked_list.ipynb)
+- [List Exercises](https://github.com/arisonl/data-structures/blob/master/list_exercises.ipynb)
 2. Queues
 3. Stacks
 4. Hash Tables
