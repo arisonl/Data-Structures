@@ -4,14 +4,14 @@
 - [Array Lists](https://github.com/arisonl/data-structures/edit/master/README.md)
 - [Linked Lists](https://github.com/arisonl/data-structures/blob/master/linked_list.ipynb)
 - [List Exercises](https://github.com/arisonl/data-structures/blob/master/list_exercises.ipynb)
-2. Queues
-3. Stacks
-4. Hash Tables
-5. Recursion
+2. [Queues](https://github.com/arisonl/data-structures/blob/master/queue.ipynb)
+3. [Stacks](https://github.com/arisonl/data-structures/blob/master/stack.ipynb)
+4. [Hash Tables](https://github.com/arisonl/data-structures/blob/master/hash_table.ipynb)
+5. [Recursion](https://github.com/arisonl/data-structures/blob/master/recursion.ipynb)
 6. Trees:
-- Trees Overview
-- Binary Search Trees
-- Heaps
+- [Trees Overview](https://github.com/arisonl/data-structures/blob/master/trees_overview.ipynb)
+- [Binary Search Trees](https://github.com/arisonl/data-structures/blob/master/binary_search_tree.ipynb)
+- [Heaps](https://github.com/arisonl/data-structures/blob/master/heaps.ipynb)
 7. Graphs: 
 - Breadth First Search
 - Depth First Search
