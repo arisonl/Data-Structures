@@ -11,7 +11,7 @@
 6. Trees:
 - [Trees Overview](https://github.com/arisonl/data-structures/blob/master/trees_overview.ipynb)
 - [Binary Search Trees](https://github.com/arisonl/data-structures/blob/master/binary_search_tree.ipynb)
-- [Heaps](https://github.com/arisonl/data-structures/blob/master/heaps.ipynb)
+- [Heaps](https://github.com/arisonl/data-structures/blob/master/heap.ipynb)
 7. Graphs: 
 - Breadth First Search
 - Depth First Search
