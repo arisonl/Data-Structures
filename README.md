@@ -15,7 +15,7 @@
 - [Heaps](https://github.com/arisonl/data-structures/blob/master/heap.ipynb)
 7. Graphs: 
 - [Graphs Overview](https://github.com/arisonl/data-structures/blob/master/graphs-overview.ipynb)
-- Breadth First Search, Depth First Search
+- [Breadth First Search, Depth First Search](https://github.com/arisonl/data-structures/blob/master/bfs-dfs.ipynb)
 8. Sorting:
 - Selection Sort
 - Insertion Sort
