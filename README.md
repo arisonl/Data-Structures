@@ -26,5 +26,5 @@
 ### References:
 1. "Beginning Algorithms" by S. Harris, J. Ross - Wrox
 2. "Introduction to Algorithms" by T. H. Cormen, C. E. Leiserson, R. L. Rivest and C. Stein - MIT Press
-3. "The Algorithm Deisgn Manual" by S. S. Skiena. Springer
-4. "Cracking the Coding Interview" by G. Laakmann McDowell. CareerCup
+3. "The Algorithm Deisgn Manual" by S. S. Skiena - Springer
+4. "Cracking the Coding Interview" by G. Laakmann McDowell - CareerCup
