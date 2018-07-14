@@ -13,8 +13,8 @@
 - [Binary Search Trees](https://github.com/arisonl/data-structures/blob/master/binary_search_tree.ipynb)
 - [Heaps](https://github.com/arisonl/data-structures/blob/master/heap.ipynb)
 7. Graphs: 
-- Breadth First Search
-- Depth First Search
+- [Graphs Overview](https://github.com/arisonl/data-structures/blob/master/graphs-overview.ipynb)
+- Breadth First Search, Depth First Search
 8. Sorting:
 - Selection Sort
 - Insertion Sort
