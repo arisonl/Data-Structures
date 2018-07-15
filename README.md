@@ -9,16 +9,16 @@
 3. [Stacks](https://github.com/arisonl/data-structures/blob/master/stack.ipynb)
 4. [Hash Tables](https://github.com/arisonl/data-structures/blob/master/hash_table.ipynb)
 5. [Recursion](https://github.com/arisonl/data-structures/blob/master/recursion.ipynb)
-6. Trees:
+6. Sorting: 
+   - [Basic sorting: Selection, Insertion](https://github.com/arisonl/data-structures/blob/master/sorting.ipynb)
+   - Advanced sorting: Quick, Merge Sort
+7. Trees:
    - [Trees Overview](https://github.com/arisonl/data-structures/blob/master/trees_overview.ipynb)
    - [Binary Search Trees](https://github.com/arisonl/data-structures/blob/master/binary_search_tree.ipynb)
    - [Heaps](https://github.com/arisonl/data-structures/blob/master/heap.ipynb)
-7. Graphs: 
+8. Graphs: 
    - [Graphs Overview](https://github.com/arisonl/data-structures/blob/master/graphs-overview.ipynb)
    - [Breadth First Search, Depth First Search](https://github.com/arisonl/data-structures/blob/master/bfs-dfs.ipynb)
-8. Sorting: 
-   - [Basic sorting: Selection, Insertion](https://github.com/arisonl/data-structures/blob/master/sorting.ipynb)
-   - Advanced sorting: Quick, Merge Sort
 
 
 ### References:
