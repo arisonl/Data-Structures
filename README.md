@@ -4,7 +4,7 @@
 1. Lists:
    - [Array Lists](https://github.com/arisonl/data-structures/edit/master/README.md)
    - [Linked Lists](https://github.com/arisonl/data-structures/blob/master/linked_list.ipynb)
-   - [List Exercises](https://github.com/arisonl/data-structures/blob/master/list_exercises.ipynb)
+   - [List Practice](https://github.com/arisonl/data-structures/blob/master/list_exercises.ipynb)
 2. [Queues](https://github.com/arisonl/data-structures/blob/master/queue.ipynb)
 3. [Stacks](https://github.com/arisonl/data-structures/blob/master/stack.ipynb)
 4. [Hash Tables](https://github.com/arisonl/data-structures/blob/master/hash_table.ipynb)
