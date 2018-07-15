@@ -16,7 +16,8 @@
 7. Graphs: 
    - [Graphs Overview](https://github.com/arisonl/data-structures/blob/master/graphs-overview.ipynb)
    - [Breadth First Search, Depth First Search](https://github.com/arisonl/data-structures/blob/master/bfs-dfs.ipynb)
-8. [Sorting: Selection, Insertion, Quick, Merge Sort](https://github.com/arisonl/data-structures/blob/master/sorting.ipynb)
+8. Sorting: 
+   - [Selection, Insertion, Quick, Merge Sort](https://github.com/arisonl/data-structures/blob/master/sorting.ipynb)
 
 
 ### References:
