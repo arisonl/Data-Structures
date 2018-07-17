@@ -1,5 +1,9 @@
 # data-structures
 
+An interactive tutorial on the basic algorithms and data structures.
+
+(c) Aris Papadopoulos
+
 ### Contents:
 1. Lists:
    - [Array Lists](https://github.com/arisonl/data-structures/edit/master/README.md)
