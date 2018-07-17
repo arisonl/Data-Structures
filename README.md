@@ -1,6 +1,6 @@
 # data-structures
 
-An interactive tutorial on the basic algorithms and data structures.
+An interactive tutorial on the basic algorithms and data structures in Python.
 
 © Aris Papadopoulos
 
