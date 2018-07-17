@@ -2,7 +2,7 @@
 
 An interactive tutorial on the basic algorithms and data structures in Python.
 
-© Aris Papadopoulos, www.aris.onl
+© Aris Papadopoulos, www.aris.onl<br>
 To share, you need to state the copyright note 
 
 ### Contents:
