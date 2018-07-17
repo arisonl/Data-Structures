@@ -11,7 +11,7 @@
 5. [Recursion](https://github.com/arisonl/data-structures/blob/master/recursion.ipynb)
 6. Sorting: 
    - [Basic sorting: Selection, Insertion](https://github.com/arisonl/data-structures/blob/master/sorting.ipynb)
-   - Advanced sorting: Quick, Merge Sort
+   - [Advanced sorting: Quick, Merge Sort](https://github.com/arisonl/data-structures/blob/master/advanced-sorting.ipynb)
 7. Trees:
    - [Trees Overview](https://github.com/arisonl/data-structures/blob/master/trees_overview.ipynb)
    - [Binary Search Trees](https://github.com/arisonl/data-structures/blob/master/binary_search_tree.ipynb)
