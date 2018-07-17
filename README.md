@@ -2,7 +2,7 @@
 
 An interactive tutorial on the basic algorithms and data structures.
 
-(c) Aris Papadopoulos
+© Aris Papadopoulos
 
 ### Contents:
 1. Lists:
