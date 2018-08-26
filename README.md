@@ -1,4 +1,4 @@
-# data-structures
+# introduction-to-algorithms
 
 An interactive tutorial on the basic algorithms and data structures in Python.
 
