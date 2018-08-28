@@ -7,7 +7,7 @@ To share, you need to state the copyright note
 
 ### Contents:
 1. Lists:
-   - [Array Lists](https://github.com/arisonl/data-structures/edit/master/README.md)
+   - [Array Lists](https://github.com/arisonl/algorithms-and-data-structures/blob/master/array_list.ipynb)
    - [Linked Lists](https://github.com/arisonl/data-structures/blob/master/linked_list.ipynb)
    - [Lists Practice](https://github.com/arisonl/data-structures/blob/master/list_exercises.ipynb)
 2. [Queues](https://github.com/arisonl/data-structures/blob/master/queue.ipynb)
